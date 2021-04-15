@@ -1,6 +1,7 @@
 [submodule "linphone-sdk"]
-path = linphone-sdk
-	url = https://gitlab.linphone.org/BC/public/linphone-sdk.git
+	path = linphone-sdk
+	url = ../linphone-sdk.git
+	branch = .
 [submodule "plugins/contacts/contacts-api"]
 	path = plugins/contacts/contacts-api
 	url =  https://gitlab.linphone.org/BC/public/linphone-desktop-plugins/contacts/contacts-api.git
